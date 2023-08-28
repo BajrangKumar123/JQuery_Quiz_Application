@@ -1,0 +1,102 @@
+[
+    {
+        "question": "What is the capital of France?",
+        "options": [
+            "Paris",
+            "Madrid",
+            "Berlin",
+            "Rome"
+        ],
+        "answer": "Paris"
+    },
+    {
+        "question": "Which planet is known as the Red Planet?",
+        "options": [
+            "Venus",
+            "Mars",
+            "Jupiter",
+            "Saturn"
+        ],
+        "answer": "Mars"
+    },
+    {
+        "question": "What is the largest mammal?",
+        "options": [
+            "Elephant",
+            "Blue Whale",
+            "Giraffe",
+            "Hippopotamus"
+        ],
+        "answer": "Blue Whale"
+    },
+    {
+        "question": "How many days are there in a week?",
+        "options": [
+            "7",
+            "6",
+            "5",
+            "2"
+        ],
+        "answer": "7"
+    },
+    {
+        "question": "Rainbow consist of how many colours?",
+        "options": [
+            "7",
+            "9",
+            "15",
+            "2"
+        ],
+        "answer": "7"
+    },
+    {
+        "question": "How many minutes are there in an hour?",
+        "options": [
+            "60",
+            "10",
+            "35",
+            "59"
+        ],
+        "answer": "60"
+    },
+    {
+        "question": "How many vowels are there in the English alphabet and name them?",
+        "options": [
+            "5 vowels",
+            "2 vowels",
+            "3 vowels",
+            "0 vowels"
+        ],
+        "answer": "5 vowels"
+    },
+    {
+        "question": "How many seconds make one hour?",
+        "options": [
+            "3600 seconds",
+            "1500 seconds",
+            "3601 seconds",
+            "1100 seconds"
+        ],
+        "answer": "3600 seconds"
+    },
+    {
+        "question": "Which one is the smallest ocean in the World?",
+        "options": [
+            "Indian",
+            "Pacific",
+            "Atlantic",
+            "Arctic"
+        ],
+        "answer": "7"
+    },
+    {
+        "question": "Which one is the biggest island in the World?",
+        "options": [
+            "Borneo",
+            "Finland",
+            "Sumatra",
+            "Greenland"
+        ],
+        "answer": "Greenland"
+    }
+]
